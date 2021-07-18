@@ -1,5 +1,6 @@
 - 遇见江城
   - [行政区划](docs/basic-information/administrative-division.md)
+  - [医疗资源](docs/basic-information/medical-resources.md)
 - 各区新房
   - 东湖高新
   - 洪山
