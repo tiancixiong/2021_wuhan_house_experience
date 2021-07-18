@@ -9,8 +9,9 @@
 - 购房流程
   
   - 新房
-  - 二手房
+  - [二手房](docs/purchase-process/second-hand-housing-purchase-process.md)
 - 政策
+  - [ 大学毕业生落户](docs/policy/college-students-settle-down.md)
 - 新闻
 - 房产概念
   
