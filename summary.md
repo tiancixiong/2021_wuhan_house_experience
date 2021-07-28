@@ -27,4 +27,5 @@
   - [二手房交易税](docs/other/second-hand-housing-transaction-tax.md)
   - [房贷计算器-房天下](https://wuhan.newhouse.fang.com/house/tools.htm)
   - [购房百科-贝壳](https://news.ke.com/wh/baike/)
+  - [买房建议-知乎(有些建议还不错)](https://zhuanlan.zhihu.com/p/341365889)
 
