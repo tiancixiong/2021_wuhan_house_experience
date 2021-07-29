@@ -1,8 +1,10 @@
+- 新闻
+  - [7.28 武汉将凭房票买房](http://fgj.wuhan.gov.cn/hdjl_44/dczj_1/yjzj.shtml?collectionId=714&siteId=44&status=0)
+  - 
 - 遇见江城
   - [行政区划](docs/basic-information/administrative-division.md)
   - [交通分布](docs/basic-information/traffic-distribution.md)
   - [医疗资源](docs/basic-information/medical-resources.md)
-- [TODO]新闻
 - [TODO]各区新房
   - 东湖高新
   - 洪山
