@@ -1,4 +1,4 @@
-## 武汉市的医疗资源
+# 医疗资源
 
 > 来源：[flyingwzb/wuhan-house-knowledge](https://github.com/flyingwzb/wuhan-house-knowledge#%E6%AD%A6%E6%B1%89%E5%B8%82%E7%9A%84%E5%8C%BB%E7%96%97%E8%B5%84%E6%BA%90)
 

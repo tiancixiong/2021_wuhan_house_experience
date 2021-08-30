@@ -21,7 +21,7 @@
   - [二手房](docs/purchase-process/second-hand-housing-purchase-process.md)
 - [TODO]贷款
 - 政策
-  - [ 大学毕业生落户](docs/policy/college-students-settle-down.md)
+  - [ 武汉落户](docs/policy/college-students-settle-down.md)
 - 房产概念
   
   - [常用概念](docs/concept/common-real-estate-concepts.md)
