@@ -53,7 +53,7 @@
 
 > 详情：[知乎](https://zhuanlan.zhihu.com/p/99692311)
 
-![img](images/v2-97d7cbfc33219759a8d1b4d36d571ab6_720w-1626608103024.jpg)
+![建筑面积公式](images/building-area-formula.jpg)
 
 #### 建筑面积
 
