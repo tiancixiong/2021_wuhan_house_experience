@@ -8,7 +8,6 @@
 - 房源信息
   - 房源查询
     - [武汉二手房交易服务网](http://esf.whfgxx.org.cn/New/publish/)
-  - [贝壳网-二手房成交数据](https://wh.ke.com/chengjiao/)
 - 购房流程
   
   - [TODO]新房
