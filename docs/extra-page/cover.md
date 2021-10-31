@@ -1,4 +1,4 @@
-![logo](/#/docs/extra-page/icon.jpg)
+![logo](/#/extra-page/icon.jpg)
 
 # 2021 武汉购房经验
 > hello
